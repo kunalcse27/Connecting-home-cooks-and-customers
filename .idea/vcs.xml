@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-<<<<<<< HEAD
-    <mapping directory="" vcs="Git" />
-=======
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
->>>>>>> 9766d63 (Initial commit - JDBC connection and Cook registration module)
+    <mapping directory="$PROJECT_DIR$/Frontend" vcs="Git" />
   </component>
 </project>
