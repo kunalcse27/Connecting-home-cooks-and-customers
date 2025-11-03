@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Connecting-home-cooks-and-customers.iml" filepath="$PROJECT_DIR$/.idea/Connecting-home-cooks-and-customers.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/test JDBC.iml" filepath="$PROJECT_DIR$/test JDBC.iml" />
+>>>>>>> 9766d63 (Initial commit - JDBC connection and Cook registration module)
     </modules>
   </component>
 </project>
