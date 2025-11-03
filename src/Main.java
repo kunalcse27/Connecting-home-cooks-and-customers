@@ -8,11 +8,10 @@ public class Main {
         String username = "root";
         String password = "root";
 
-        // Try-with-resources automatically closes the connection
         try (Connection con = DriverManager.getConnection(url, username, password)) {
             System.out.println("✅ Connection Successful!");
 
-            // Optional: simple test query to show that the connection works
+        
             Statement stmt = con.createStatement();
             ResultSet rs = stmt.executeQuery("SELECT DATABASE();");
 
